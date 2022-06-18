@@ -9,11 +9,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285609233482','6287877173955','0']
-global.ownerName = 'Fandyyy X All Creator'
+global.ownerNumber = ['6288804947282','6283125824143','0']
+global.ownerName = 'Demonz'
 global.packname = 'Ichigo Kurosaki'
 global.author = 'Whatsapp Bot 2022'
-global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
+global.prefa = [] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
 
 //Message Nya Ubah Disini
